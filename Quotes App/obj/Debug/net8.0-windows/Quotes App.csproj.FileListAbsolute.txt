@@ -1,0 +1,16 @@
+C:\Users\ASUS ROG\source\repos\Quotes App\Quotes App\bin\Debug\net8.0-windows\Quotes App.exe
+C:\Users\ASUS ROG\source\repos\Quotes App\Quotes App\bin\Debug\net8.0-windows\Quotes App.deps.json
+C:\Users\ASUS ROG\source\repos\Quotes App\Quotes App\bin\Debug\net8.0-windows\Quotes App.runtimeconfig.json
+C:\Users\ASUS ROG\source\repos\Quotes App\Quotes App\bin\Debug\net8.0-windows\Quotes App.dll
+C:\Users\ASUS ROG\source\repos\Quotes App\Quotes App\bin\Debug\net8.0-windows\Quotes App.pdb
+C:\Users\ASUS ROG\source\repos\Quotes App\Quotes App\obj\Debug\net8.0-windows\Quotes_App.Form1.resources
+C:\Users\ASUS ROG\source\repos\Quotes App\Quotes App\obj\Debug\net8.0-windows\Quotes App.csproj.GenerateResource.cache
+C:\Users\ASUS ROG\source\repos\Quotes App\Quotes App\obj\Debug\net8.0-windows\Quotes App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS ROG\source\repos\Quotes App\Quotes App\obj\Debug\net8.0-windows\Quotes App.AssemblyInfoInputs.cache
+C:\Users\ASUS ROG\source\repos\Quotes App\Quotes App\obj\Debug\net8.0-windows\Quotes App.AssemblyInfo.cs
+C:\Users\ASUS ROG\source\repos\Quotes App\Quotes App\obj\Debug\net8.0-windows\Quotes App.csproj.CoreCompileInputs.cache
+C:\Users\ASUS ROG\source\repos\Quotes App\Quotes App\obj\Debug\net8.0-windows\Quotes App.dll
+C:\Users\ASUS ROG\source\repos\Quotes App\Quotes App\obj\Debug\net8.0-windows\refint\Quotes App.dll
+C:\Users\ASUS ROG\source\repos\Quotes App\Quotes App\obj\Debug\net8.0-windows\Quotes App.pdb
+C:\Users\ASUS ROG\source\repos\Quotes App\Quotes App\obj\Debug\net8.0-windows\Quotes App.genruntimeconfig.cache
+C:\Users\ASUS ROG\source\repos\Quotes App\Quotes App\obj\Debug\net8.0-windows\ref\Quotes App.dll
